@@ -1,5 +1,7 @@
 # Natural-Language-Processing
  
+The field that covers computer understanding and manipulation of human language.
+
 1) Regular Expressions
 2) Text Preprocessing
 3) Parts of Speech Tagging
